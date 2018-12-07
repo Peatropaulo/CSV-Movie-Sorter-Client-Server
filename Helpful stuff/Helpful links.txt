@@ -1,0 +1,6 @@
+http://tldp.org/LDP/LGNET/91/misc/tranter/server.c.txt
+server side of sendfile
+
+
+http://www.cs.dartmouth.edu/~campbell/cs50/socketprogramming.html
+Basics of sockets and other tips
